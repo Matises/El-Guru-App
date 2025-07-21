@@ -1,0 +1,5 @@
+el-guru-app/
+├── main.py
+├── modelo.pkl
+├── requirements.txt
+├── render.yaml
